@@ -15,6 +15,7 @@ public class TurnoDAOLista implements IDao<Turno>{
     @Override
     public Turno guardar(Turno turno) {
         turnos.add(turno);
+        logger.debug("Se ha agregado un turno");
         return turno;
     }
 
@@ -34,6 +35,7 @@ public class TurnoDAOLista implements IDao<Turno>{
         Turno buscado = buscar(id);
         if(buscado!=null){
             turnos.remove(buscado);
+            logger.debug("Se ha eliminado el turno con id: " + id);
         }else {
             logger.debug("No se encontró ese turno");
         }

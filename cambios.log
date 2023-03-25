@@ -453,3 +453,47 @@
 [2023-03-22 15:54:54] [ INFO ] [PacienteDAOH2:45] Se ha guardado el paciente con ID: 2
 [2023-03-22 15:55:05] [ INFO ] [PacienteDAOH2:130] Se ha actualizado el paciente con ID 2
 [2023-03-22 16:02:40] [ INFO ] [PacienteDAOH2:99] Se ha eliminado el paciente con ID: 2
+[2023-03-24 16:32:48] [ DEBUG] [OdontologoDAOH2:32] Se ha conectado a la base de datos
+[2023-03-24 16:32:48] [ DEBUG] [OdontologoDAOH2:39] Se ha guardado el odontólogo con ID: 2
+[2023-03-24 16:32:59] [ DEBUG] [OdontologoDAOH2:148] Se ha conectado a la base de datos
+[2023-03-24 16:32:59] [ DEBUG] [OdontologoDAOH2:160] Se ha generado el listado de todos los odontólogos, en total son: 2
+[2023-03-24 16:33:49] [ INFO ] [PacienteDAOH2:27] Conexión OK a la base de datos
+[2023-03-24 16:33:49] [ INFO ] [PacienteDAOH2:45] Se ha guardado el paciente con ID: 2
+[2023-03-24 16:34:07] [ INFO ] [PacienteDAOH2:130] Se ha actualizado el paciente con ID 2
+[2023-03-25 10:05:01] [ DEBUG] [OdontologoDAOH2:148] Se ha conectado a la base de datos
+[2023-03-25 10:05:01] [ DEBUG] [OdontologoDAOH2:160] Se ha generado el listado de todos los odontólogos, en total son: 1
+[2023-03-25 10:09:30] [ DEBUG] [OdontologoDAOH2:148] Se ha conectado a la base de datos
+[2023-03-25 10:09:30] [ DEBUG] [OdontologoDAOH2:160] Se ha generado el listado de todos los odontólogos, en total son: 1
+[2023-03-25 10:21:46] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 10:22:01] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 10:25:49] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 10:26:00] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 10:35:14] [ DEBUG] [OdontologoDAOH2:148] Se ha conectado a la base de datos
+[2023-03-25 10:35:14] [ DEBUG] [OdontologoDAOH2:160] Se ha generado el listado de todos los odontólogos, en total son: 1
+[2023-03-25 10:37:21] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 10:37:36] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 11:38:41] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 11:38:52] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 11:52:12] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 11:53:01] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 11:53:12] [ DEBUG] [TurnoDAOLista:38] Se ha eliminado el turno con id: 2
+[2023-03-25 12:24:50] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:24:58] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:26:49] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:27:00] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:29:10] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:29:19] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:35:31] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:35:42] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:37:36] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:37:46] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:42:01] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:42:09] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:45:27] [ DEBUG] [TurnoDAOLista:38] Se ha eliminado el turno con id: 2
+[2023-03-25 12:45:27] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:47:26] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:47:35] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:47:47] [ DEBUG] [TurnoDAOLista:38] Se ha eliminado el turno con id: 2
+[2023-03-25 12:47:47] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:55:17] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
+[2023-03-25 12:55:24] [ DEBUG] [TurnoDAOLista:18] Se ha agregado un turno
